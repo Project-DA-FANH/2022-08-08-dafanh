@@ -254,6 +254,14 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p id="funding">
+    <strong>Acknowledgement:</strong>
+    This workshop is being offered by Project DA-FANH [grant no. 2021-77040-34880 from the USDA National Institute of Food and Agriculture]. 
+    Project DA-FANH aims to foster an active, inclusive, and diverse community of learners and instructors that promote and model the 
+    importance of software and data in the Food, Agriculture, Natural Resources and Human Sciences.
+</p>
+
+
 {% comment %}
 WHO CAN ATTEND?
 
