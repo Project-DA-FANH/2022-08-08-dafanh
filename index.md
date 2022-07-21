@@ -112,7 +112,7 @@ workshop is only open to people from a particular institution.
 
 <p id="registration">
     <strong>Registration fees and links:</strong>
-    Due to COVID-19 space is limited to 20 learners at each site and masks are required. Registration fees are on a sliding scale: <br> 
+    Space is limited to 20 learners at each site. Registration fees are on a sliding scale: <br> 
     - $40 for general Tenure track faculty. <br>
     - $20 for Lecturers and Adjunct faculty with promo code <b>LecAdj</b> <br>
     - $10 for Graduate students with promo code <b>GradStudent</b><br>
